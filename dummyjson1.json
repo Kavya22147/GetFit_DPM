@@ -1,0 +1,333 @@
+[
+
+{
+
+	"username": "kavya",
+"password": "hello@23",
+        "athlete": {
+            "id": 66278592,
+            "resource_state": 1
+        }, "name": "Evening Run",
+        "distance": 1514.5,
+        "moving_time": 643,
+        "elapsed_time": 646,
+        "total_elevation_gain": 17.9,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": 0,
+        "id": 7725476929,
+        "start_date": "2022-08-30T13:52:32Z",
+        "start_date_local": "2022-08-30T19:22:32Z",
+        "timezone": "(GMT+05:30) Asia/Kolkata",
+        "utc_offset": 19800.0,
+        "location_city": "ghaziabad",
+        "location_state": null,
+        "location_country": "india",
+        "achievement_count": 0,
+        "kudos_count": "Wow what a run",
+       
+        "athlete_count": 1,
+        "start_latlng": [
+            28.54805468581617,
+            77.27375825867057
+        ],
+        "end_latlng": [
+            28.548468751832843,
+            77.2743595764041
+        ],
+        "average_speed": 2.355,
+        "max_speed": 3.776,
+        "has_heartrate": false,
+        "elev_high": 235.2,
+        "elev_low": 218.2},
+
+    {
+        
+"username": "ishika",
+"password": "hello@09",
+        "athlete": {
+            "id": 44278592,
+            "resource_state": 1
+        }, "name": "Evening Run",
+        "distance": 1514.5,
+        "moving_time": 643,
+        "elapsed_time": 646,
+        "total_elevation_gain": 17.9,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": 0,
+        "id": 7725476929,
+        "start_date": "2022-08-30T13:52:32Z",
+        "start_date_local": "2022-08-30T19:22:32Z",
+        "timezone": "(GMT+05:30) Asia/Kolkata",
+        "utc_offset": 19800.0,
+        "location_city":"Jaipur" ,
+        "location_state": null,
+        "location_country": null,
+        "achievement_count": 0,
+        "kudos_count": "Amazing jogging",
+       
+        "athlete_count": 1,
+        "start_latlng": [
+            28.54805468581617,
+            77.27375825867057
+        ],
+        "end_latlng": [
+            28.548468751832843,
+            77.2743595764041
+        ],
+        "average_speed": 2.355,
+        "max_speed": 3.776,
+        "has_heartrate": false,
+        "elev_high": 235.2,
+        "elev_low": 218.2},
+
+{
+        
+"username": "Khushi",
+"password": "strava",
+        "athlete": {
+            "id": 55278592,
+            "resource_state": 1
+        }, "name": "Afternoon run",
+        "distance": 1514.5,
+        "moving_time": 643,
+        "elapsed_time": 646,
+        "total_elevation_gain": 17.9,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": 0,
+        "id": 7725476929,
+        "start_date": "2022-08-30T13:52:32Z",
+        "start_date_local": "2022-08-30T19:22:32Z",
+        "timezone": "(GMT+05:30) Asia/Kolkata",
+        "utc_offset": 19800.0,
+        "location_city":"manipur" ,
+        "location_state": null,
+        "location_country": null,
+        "achievement_count": 0,
+        "kudos_count": "Amazing jogging",
+       
+        "athlete_count": 1,
+        "start_latlng": [
+            28.54805468581617,
+            77.27375825867057
+        ],
+        "end_latlng": [
+            28.548468751832843,
+            77.2743595764041
+        ],
+        "average_speed": 2.567,
+        "max_speed": 3.234,
+        "has_heartrate": false,
+        "elev_high": 235.2,
+        "elev_low": 218.2},
+
+
+
+{      
+"username": "Samarth",
+"password": "gymsam",
+        "athlete": {
+            "id": 55277692,
+            "resource_state": 1
+        }, "name": "Morning Run",
+        "distance": 2000.29,
+        "moving_time": 643,
+        "elapsed_time": 646,
+        "total_elevation_gain": 17.9,
+        "type": "walk",
+        "sport_type": "walk",
+        "workout_type": 0,
+        "id": 7725476929,
+        "start_date": "2022-08-30T13:52:32Z",
+        "start_date_local": "2022-08-30T19:22:32Z",
+        "timezone": "(GMT+05:30) Asia/Kolkata",
+        "utc_offset": 19800.0,
+        "location_city":"dehradun" ,
+        "location_state": null,
+        "location_country": null,
+        "achievement_count": 0,
+        "kudos_count": "Amazing jogging",
+       
+        "athlete_count": 1,
+        "start_latlng": [
+            28.54805468581617,
+            77.27375825867057
+        ],
+        "end_latlng": [
+            28.548468751832843,
+            77.2743595764041
+        ],
+        "average_speed": 0.567,
+        "max_speed": 1.00,
+        "has_heartrate": false,
+        "elev_high": 235.2,
+        "elev_low": 218.2},
+
+    {
+        
+"username": "Sarang",
+"password": "flute@123",
+        "athlete": {
+            "id": 55278592,
+            "resource_state": 1
+        }, "name": "Evening Run",
+        "distance": 1514.5,
+        "moving_time": 643,
+        "elapsed_time": 646,
+        "total_elevation_gain": 17.9,
+        "type": "Run",
+        "sport_type": "Run",
+        "workout_type": 0,
+        "id": 7725476929,
+        "start_date": "2022-08-30T13:52:32Z",
+        "start_date_local": "2022-08-30T19:22:32Z",
+        "timezone": "(GMT+05:30) Asia/Kolkata",
+        "utc_offset": 19800.0,
+        "location_city":"manipur" ,
+        "location_state": null,
+        "location_country": null,
+        "achievement_count": 0,
+        "kudos_count": "Amazing jogging",
+       
+        "athlete_count": 1,
+        "start_latlng": [
+            28.54805468581617,
+            77.27375825867057
+        ],
+        "end_latlng": [
+            28.548468751832843,
+            77.2743595764041
+        ],
+        "average_speed": 2.355,
+        "max_speed": 3.776,
+        "has_heartrate": false,
+        "elev_high": 235.2,
+        "elev_low": 218.2},
+
+
+        {
+
+"username": "Shravya",
+"password": "fitness",
+        "athlete": {
+            "id": 55278562,
+            "resource_state": 1
+        }, "name": "Joggers plan",
+        "distance": 1200.7,
+        "moving_time": 734,
+        "elapsed_time": 765,
+        "total_elevation_gain": 20.9,
+        "type": "Jog",
+        "sport_type": "Jog",
+        "workout_type": 0,
+        "id": 7725566929,
+        "start_date": "2021-08-30T13:52:32Z",
+        "start_date_local": "2021-08-30T19:22:32Z",
+        "timezone": "(GMT+05:30) Asia/Kolkata",
+        "utc_offset": 19800.0,
+        "location_city":"jaipur" ,
+        "location_state": null,
+        "location_country": null,
+        "achievement_count": 0,
+        "kudos_count": "Great workout",
+
+        "athlete_count": 1,
+        "start_latlng": [
+            23.54805468581617,
+            77.27375825867057
+        ],
+        "end_latlng": [
+            23.548468751832843,
+            77.2743595764041
+        ],
+        "average_speed": 3.355,
+        "max_speed": 4.776,
+        "has_heartrate": false,
+        "elev_high": 235.2,
+        "elev_low": 218.2},
+
+
+        {
+"username": "Tarun",
+"password": "hiiam",
+        "athlete": {
+            "id": 55763492,
+            "resource_state": 1
+        }, "name": "Morning Run",
+        "distance": 3000.74,
+        "moving_time": 600,
+        "elapsed_time": 584,
+        "total_elevation_gain": 20.6,
+        "type": "run",
+        "sport_type": "run",
+        "workout_type": 4,
+        "id": 8906476929,
+        "start_date": "2022-11-30T13:52:40Z",
+        "start_date_local": "2022-11-30T19:22:67Z",
+        "timezone": "(GMT+07:30) Asia/Kolkata",
+        "utc_offset": 14800.0,
+        "location_city":"delhi" ,
+        "location_state": null,
+        "location_country": null,
+        "achievement_count": 0,
+        "kudos_count": "Good walk",
+
+        "athlete_count": 4,
+        "start_latlng": [
+            38.53805468481223,
+            78.27375825808645
+        ],
+        "end_latlng": [
+            38.548468751832843,
+            78.2743595764041
+        ],
+        "average_speed": 0.867,
+        "max_speed": 2.00,
+        "has_heartrate": true,
+        "elev_high": 234.87,
+        "elev_low": 245.78},
+
+        {
+
+"username": "Jake",
+"password": "jakehere",
+        "athlete": {
+            "id": 45278562,
+            "resource_state": 1
+        }, "name": "Lets go",
+        "distance": 1370.7,
+        "moving_time": 734,
+        "elapsed_time": 765,
+        "total_elevation_gain": 20.9,
+        "type": "Jog",
+        "sport_type": "Jog",
+        "workout_type": 0,
+        "id": 7725566929,
+        "start_date": "2021-08-30T13:52:32Z",
+        "start_date_local": "2021-08-30T19:22:32Z",
+        "timezone": "(GMT+05:30) Asia/Kolkata",
+        "utc_offset": 19800.0,
+        "location_city":"manali" ,
+        "location_state": null,
+        "location_country": null,
+        "achievement_count": 0,
+        "kudos_count": "Hurrah, get going",
+
+        "athlete_count": 1,
+        "start_latlng": [
+            45.54805468581617,
+            77.27375825867057
+        ],
+        "end_latlng": [
+            45.548468751832843,
+            77.2743595764041
+        ],
+        "average_speed": 1.875,
+        "max_speed": 2.556,
+        "has_heartrate": false,
+        "elev_high": 235.2,
+        "elev_low": 218.2}
+]
+    
